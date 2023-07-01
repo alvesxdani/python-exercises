@@ -30,6 +30,6 @@ while operacao != 3:
 
     else:
         operacao = int(input("Operação desconhecida. Digite novamente: "))
-
+    
     operacao = int(input("Digite o número da nova operação: "))
     
